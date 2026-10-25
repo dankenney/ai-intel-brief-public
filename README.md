@@ -15,5 +15,6 @@ This repo is produced by an automated research pipeline with human review. Every
 
 ## Index of weeks
 
+- **2026-W43**: [ten things to try](weeks/2026-W43/ten-things.md) · [library highlights](weeks/2026-W43/library-highlights.md)
 - **2026-W42**: [ten things to try](weeks/2026-W42/ten-things.md) · [library highlights](weeks/2026-W42/library-highlights.md)
 - **2026-W41**: [ten things to try](weeks/2026-W41/ten-things.md) · [library highlights](weeks/2026-W41/library-highlights.md)
